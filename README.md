@@ -135,13 +135,6 @@ model = Model(1, 1)
 criterion = nn.MSELoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
 
-
-
-
-
-
-
-
 # Initialize the Model, Loss Function, and Optimizer
 
 ```
