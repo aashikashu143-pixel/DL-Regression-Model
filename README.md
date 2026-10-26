@@ -161,12 +161,12 @@ Training Loss Vs Iteration Plot
 
 Best Fit line plot
 
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/9ffde38c-3faf-4d78-9a12-484162516ff6" />
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/3e836622-d2b8-4437-9ead-beede0f2a281" />
 
 
 Include your plot here
 
-<img width="887" height="290" alt="Screenshot 2026-10-26 105619" src="https://github.com/user-attachments/assets/96d46380-0f17-402d-b1e5-06a5c6c15163" />
+<img width="887" height="290" alt="Screenshot 2026-10-26 105619" src="https://github.com/user-attachments/assets/1055c6ab-c8da-4d2e-b6c4-fdd6c5581eb4" />
 
 
 ### New Sample Data Prediction
