@@ -149,24 +149,24 @@ optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
 ### Dataset Information
 Include screenshot of the generated data
 
-<img width="785" height="290" alt="image" src="https://github.com/user-attachments/assets/47081e17-dbed-4569-a471-8e0460f45267" />
+<img width="887" height="290" alt="image" src="https://github.com/user-attachments/assets/1da3b579-79ec-4053-b27e-ada334eb6f08" />
 
 
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
 
-<img width="747" height="540" alt="image" src="https://github.com/user-attachments/assets/d395cc4a-b197-4dfb-9a36-89299f3d069d" />
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/031d8c1c-bccc-45e8-b3c8-8aeddf1fd0d1" />
 
 
 Best Fit line plot
 
-<img width="832" height="558" alt="image" src="https://github.com/user-attachments/assets/cf793e0f-5b48-4827-b8ef-cb81c34351aa" />
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/9ffde38c-3faf-4d78-9a12-484162516ff6" />
 
 
 Include your plot here
 
-<img width="852" height="565" alt="image" src="https://github.com/user-attachments/assets/047fd1c3-f2b5-44fb-8d42-dba46d6d6bcc" />
+<img width="887" height="290" alt="Screenshot 2026-10-26 105619" src="https://github.com/user-attachments/assets/96d46380-0f17-402d-b1e5-06a5c6c15163" />
 
 
 ### New Sample Data Prediction
